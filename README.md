@@ -1,2 +1,2 @@
 # Wiki by Kevin Leong
-Go to [wiki](wiki)
+Go to **[wiki](https://github.com/kgleong/wiki/wiki)**
